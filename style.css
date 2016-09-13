@@ -1,0 +1,13 @@
+
+p {
+color: red;
+background-color: cyan;
+border: 2px dashed blue;
+padding: 50px;
+margin: 25px;
+width: 200px;
+}
+
+<style>
+@import 'https://fonts.googleapis.com/css?family=Baloo+Tamma';
+</style>
